@@ -30,7 +30,6 @@ Test your logic and luck by uncovering all safe cells without triggering a mine!
 
 ## 📂 Project Structure
 
-```
 minesweeper/
 │── index.html
 
