@@ -32,6 +32,7 @@ Test your logic and luck by uncovering all safe cells without triggering a mine!
 
 minesweeper/
 │── index.html
+ ──README.md
 
 ---
 
