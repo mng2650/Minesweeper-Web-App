@@ -94,10 +94,7 @@ Feel free to use and modify it.
 
 ## 👨‍💻 Author
 
-Your Name
+Michael Nsengiyumva
 GitHub: [@mng2650](https://github.com/mng2650)
 
----
 
-
-I can tailor a more impressive README specifically for your project.
