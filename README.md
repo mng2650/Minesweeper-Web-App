@@ -22,9 +22,9 @@ Test your logic and luck by uncovering all safe cells without triggering a mine!
 
 ## 🛠 Built With
 
-* **HTML5** – Structure
-* **CSS3** – Styling & layout
-* **Vanilla JavaScript (ES6)** – Game logic & interactivity
+* **HTML** - Structure
+* **CSS** – Styling & layout
+* **JavaScript )** – Game logic & interactivity
 
 ---
 
@@ -67,18 +67,6 @@ minesweeper/
 5. Clicking a mine ends the game.
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch (`feature/your-feature`)
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
-
-
 ---
 
 ## 👨‍💻 Author
