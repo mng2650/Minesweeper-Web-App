@@ -24,7 +24,7 @@ Test your logic and luck by uncovering all safe cells without triggering a mine!
 
 * **HTML** - Structure
 * **CSS** – Styling & layout
-* **JavaScript )** – Game logic & interactivity
+* **JavaScript ** – Game logic & interactivity
 
 ---
 
