@@ -67,6 +67,10 @@ minesweeper/
 5. Clicking a mine ends the game.
 
 ---
+
+## Link
+
+https://minesweeper-michael-nsengiyumva.com/
 ---
 
 ## 👨‍💻 Author
